@@ -1,0 +1,6 @@
+csv
+tabulate
+validators
+phonenumbers
+fpdf
+pyfiglet
